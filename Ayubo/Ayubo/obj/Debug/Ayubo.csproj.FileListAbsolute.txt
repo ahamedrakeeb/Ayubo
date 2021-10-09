@@ -1,0 +1,9 @@
+c:\users\student\documents\visual studio 2015\Projects\Ayubo\Ayubo\bin\Debug\Ayubo.exe.config
+c:\users\student\documents\visual studio 2015\Projects\Ayubo\Ayubo\bin\Debug\Ayubo.exe
+c:\users\student\documents\visual studio 2015\Projects\Ayubo\Ayubo\bin\Debug\Ayubo.pdb
+c:\users\student\documents\visual studio 2015\Projects\Ayubo\Ayubo\obj\Debug\Ayubo.csprojResolveAssemblyReference.cache
+c:\users\student\documents\visual studio 2015\Projects\Ayubo\Ayubo\obj\Debug\Ayubo.Form1.resources
+c:\users\student\documents\visual studio 2015\Projects\Ayubo\Ayubo\obj\Debug\Ayubo.Properties.Resources.resources
+c:\users\student\documents\visual studio 2015\Projects\Ayubo\Ayubo\obj\Debug\Ayubo.csproj.GenerateResource.Cache
+c:\users\student\documents\visual studio 2015\Projects\Ayubo\Ayubo\obj\Debug\Ayubo.exe
+c:\users\student\documents\visual studio 2015\Projects\Ayubo\Ayubo\obj\Debug\Ayubo.pdb
